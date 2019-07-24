@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionSet>
+  <question>
+    <format>1</format>
+    <ezid>13570164500387354</ezid>
+    <version>1561981908321</version>
+    <title><![CDATA[Problem 08.001]]></title>
+    <type>WK</type>
+    <categories>
+      <internal_category>
+        <catid>13570164220533888</catid>
+        <title><![CDATA[Chapter: 08 Friction]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>13570164499360700</catid>
+        <title><![CDATA[Section:  The Laws of Dry Friction]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>13570164499360722</catid>
+        <title><![CDATA[Subtopic:  Coefficients of Friction]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>13570164197853358</catid>
+        <title><![CDATA[Topic: Friction]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>13570164265328152</catid>
+        <title><![CDATA[Bloom's: Verb 3. Apply]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>13570164265328146</catid>
+        <title><![CDATA[Bloom's: Object 2. Conceptual]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>13570164342946602</catid>
+        <title><![CDATA[Units: SI ]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>1136040701493</catid>
+        <title><![CDATA[Difficulty: Medium]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>13570164343243835</catid>
+        <title><![CDATA[ABET Outcomes: (a) an ability to apply knowledge of mathematics, science, and engineering ]]></title>
+      </internal_category>
+      <internal_category>
+        <catid>13570164054528189</catid>
+        <title><![CDATA[Accessibility: Keyboard Navigation]]></title>
+      </internal_category>
+    </categories>
+    <media_set>
+      <external_media_item>
+        <display_title><![CDATA[08.01b.png]]></display_title>
+        <media_set>
+          <media lang="en-us">
+            <filename><![CDATA[08.01b.png]]></filename>
+            <format>png</format>
+            <md5>fa82e3e53f03067d0ae19fd8571fbbf1</md5>
+            <media_attrs />
+            <type>image/png</type>
+            <url><![CDATA[/mmsMedia/MHHE/EZT/Image/231973/en-us/_sysgen_demo_13570164498207016_1519887911481_08.01b.png]]></url>
+          </media>
+        </media_set>
+        <media_type>image/png</media_type>
+        <sysgen>true</sysgen>
+        <title><![CDATA[08.01b_png.ext]]></title>
+      </external_media_item>
+      <external_media_item>
+        <display_title><![CDATA[08.01a.png]]></display_title>
+        <media_set>
+          <media lang="en-us">
+            <filename><![CDATA[08.01a.png]]></filename>
+            <format>png</format>
+            <md5>c504b68ee522f81f26548075c698eba7</md5>
+            <media_attrs />
+            <type>image/png</type>
+            <url><![CDATA[/mmsMedia/MHHE/EZT/Image/231971/en-us/_sysgen_demo_13570164498143903_1519887758148_08.01a.png]]></url>
+          </media>
+        </media_set>
+        <media_type>image/png</media_type>
+        <sysgen>true</sysgen>
+        <title><![CDATA[08.01a_png.ext]]></title>
+      </external_media_item>
+      <internal_media>
+        <name>formula253.mml</name>
+        <consumerData>
+          <mediaID>13570164500387513</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula253.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>176</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1520677364554</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1zdWI+PG1pPkY8L21pPjxtdGV4dD5tPC9tdGV4dD48L21zdWI+PG10ZXh0PiZuYnNw
+Oz0mbmJzcDs8L210ZXh0Pjxtbj4wPC9tbj48bW8+LjwvbW8+PG10ZXh0PjIwPC9tdGV4dD48bWZl
+bmNlZD48bXRleHQ+e3tbQSgyKV06Iy4jIyMjfX0mIzgyMDE7TjwvbXRleHQ+PC9tZmVuY2VkPjwv
+bWF0aD4=]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula248.mml</name>
+        <consumerData>
+          <mediaID>13570164500387517</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula248.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>508</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1520677364554</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG10ZXh0PismIzg1OTk7PC9tdGV4dD48bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JiM5
+MzE7PC9taT48bXN1Yj48bWk+RjwvbWk+PG10ZXh0Pnk8L210ZXh0PjwvbXN1Yj48bXRleHQ+Jm5i
+c3A7PSZuYnNwOzwvbXRleHQ+PG1uPjA8L21uPjxtbz46PC9tbz48bXRleHQ+Jm5ic3A7PC9tdGV4
+dD48bWk+TjwvbWk+PG1vPi08L21vPjxtZmVuY2VkPjxtcm93Pjxtbj44MDA8L21uPjxtdGV4dD4m
+bmJzcDtOPC9tdGV4dD48L21yb3c+PC9tZmVuY2VkPjxtaT5jb3M8L21pPjxtdGV4dD4mbmJzcDs8
+L210ZXh0Pjxtbj4yNTwvbW4+PG1vPiYjMTc2OzwvbW8+PG10ZXh0PiZuYnNwOysmbmJzcDs8L210
+ZXh0PjxtZmVuY2VkPjxtdGV4dD57e1tBKDEpXTojLiMjIyN9fSZuYnNwO048L210ZXh0PjwvbWZl
+bmNlZD48bWk+c2luPC9taT48bXRleHQ+Jm5ic3A7PC9tdGV4dD48bW4+MTU8L21uPjxtbz4mIzE3
+Njs8L21vPjxtdGV4dD4mbmJzcDs9Jm5ic3A7PC9tdGV4dD48bW4+MDwvbW4+PC9tYXRoPg==]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula262.mml</name>
+        <consumerData>
+          <mediaID>13570164500387518</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula262.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>99</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1zdWI+PG1pPkY8L21pPjxtdGV4dD5tPC9tdGV4dD48L21zdWI+PG10ZXh0PiZuYnNw
+Oz17e1tBKDQpXTojLiMjIyN9fSYjODIwMTtOPC9tdGV4dD48L21hdGg+]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula263.mml</name>
+        <consumerData>
+          <mediaID>13570164500387519</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula263.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>108</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1520677364554</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1pIG1hdGh2YXJpYW50PSJib2xkIj5GPC9taT48bXRleHQ+Jm5ic3A7PSZuYnNwO3t7
+W0EoNCldOiMuIyMjI319JiM4MjAxO04mbmJzcDsmIzg1OTg7PC9tdGV4dD48L21hdGg+]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula256.mml</name>
+        <consumerData>
+          <mediaID>13570164500387525</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula256.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>508</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG10ZXh0PismIzg1OTk7PC9tdGV4dD48bWkgbWF0aHZhcmlhbnQ9Im5vcm1hbCI+JiM5
+MzE7PC9taT48bXN1Yj48bWk+RjwvbWk+PG10ZXh0Pnk8L210ZXh0PjwvbXN1Yj48bXRleHQ+Jm5i
+c3A7PSZuYnNwOzwvbXRleHQ+PG1uPjA8L21uPjxtbz46PC9tbz48bXRleHQ+Jm5ic3A7PC9tdGV4
+dD48bWk+TjwvbWk+PG1vPi08L21vPjxtZmVuY2VkPjxtcm93Pjxtbj44MDA8L21uPjxtdGV4dD4m
+bmJzcDtOPC9tdGV4dD48L21yb3c+PC9tZmVuY2VkPjxtaT5jb3M8L21pPjxtdGV4dD4mbmJzcDs8
+L210ZXh0Pjxtbj4yNTwvbW4+PG1vPiYjMTc2OzwvbW8+PG10ZXh0PiZuYnNwOysmbmJzcDs8L210
+ZXh0PjxtZmVuY2VkPjxtdGV4dD57e1tBKDEpXTojLiMjIyN9fSZuYnNwO048L210ZXh0PjwvbWZl
+bmNlZD48bWk+c2luPC9taT48bXRleHQ+Jm5ic3A7PC9tdGV4dD48bW4+MTU8L21uPjxtbz4mIzE3
+Njs8L21vPjxtdGV4dD4mbmJzcDs9Jm5ic3A7PC9tdGV4dD48bW4+MDwvbW4+PC9tYXRoPg==]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula258.mml</name>
+        <consumerData>
+          <mediaID>13570164500387526</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula258.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>515</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1vdmVyPjxtbz4mIzg2MDA7PC9tbz48bW8+KzwvbW8+PC9tb3Zlcj48bWk+JiM5MzE7
+PC9taT48bXN1Yj48bWk+RjwvbWk+PG10ZXh0Png8L210ZXh0PjwvbXN1Yj48bXRleHQ+Jm5ic3A7
+PSZuYnNwOzwvbXRleHQ+PG1uPjA8L21uPjxtbz46PC9tbz48bXRleHQ+Jm5ic3A7PC9tdGV4dD48
+bW8+LTwvbW8+PG1pPkY8L21pPjxtdGV4dD4mbmJzcDsrJm5ic3A7PC9tdGV4dD48bWZlbmNlZD48
+bXJvdz48bW4+ODAwPC9tbj48bXRleHQ+Jm5ic3A7TjwvbXRleHQ+PC9tcm93PjwvbWZlbmNlZD48
+bWk+c2luPC9taT48bXRleHQ+Jm5ic3A7PC9tdGV4dD48bW4+MjU8L21uPjxtbz4mIzE3Njs8L21v
+Pjxtbz4tPC9tbz48bWZlbmNlZD48bXRleHQ+e3tbQSgxKV06Iy4jIyMjfX0mbmJzcDtOPC9tdGV4
+dD48L21mZW5jZWQ+PG1pPmNvczwvbWk+PG10ZXh0PiZuYnNwOzwvbXRleHQ+PG1uPjE1PC9tbj48
+bW8+JiMxNzY7PC9tbz48bXRleHQ+Jm5ic3A7PSZuYnNwOzwvbXRleHQ+PG1uPjA8L21uPjwvbWF0
+aD4=]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula259.mml</name>
+        <consumerData>
+          <mediaID>13570164500387527</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula259.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>120</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1pIG1hdGh2YXJpYW50PSJib2xkIj5GPC9taT48bXRleHQ+Jm5ic3A7PSZuYnNwOzwv
+bXRleHQ+PG1vPi08L21vPjxtdGV4dD57e1tBKDMpXTojLiMjIyN9fSYjODIwMTtOPC9tdGV4dD48
+L21hdGg+]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula251.mml</name>
+        <consumerData>
+          <mediaID>13570164500387685</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula251.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>108</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1520677364554</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1pIG1hdGh2YXJpYW50PSJib2xkIj5GPC9taT48bXRleHQ+Jm5ic3A7PSZuYnNwO3t7
+W0EoMyldOiMuIyMjI319JiM4MjAxO04mbmJzcDsmIzg1OTg7PC9tdGV4dD48L21hdGg+]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula257.mml</name>
+        <consumerData>
+          <mediaID>13570164500387686</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula257.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>108</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1pIG1hdGh2YXJpYW50PSJib2xkIj5OPC9taT48bXRleHQ+Jm5ic3A7PSZuYnNwO3t7
+W0EoMildOiMuIyMjI319JiM4MjAxO04mbmJzcDsmIzg1OTM7PC9tdGV4dD48L21hdGg+]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula260.mml</name>
+        <consumerData>
+          <mediaID>13570164500387687</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula260.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>128</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1zdWI+PG1pPkY8L21pPjxtdGV4dD5tPC9tdGV4dD48L21zdWI+PG10ZXh0PiZuYnNw
+Oz0mbmJzcDs8L210ZXh0Pjxtc3ViPjxtaT4mIzk1Njs8L21pPjxtaT5zPC9taT48L21zdWI+PG1p
+Pk48L21pPjwvbWF0aD4=]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula261.mml</name>
+        <consumerData>
+          <mediaID>13570164500387688</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula261.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>167</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1zdWI+PG1pPkY8L21pPjxtdGV4dD5tPC9tdGV4dD48L21zdWI+PG10ZXh0PiZuYnNw
+Oz0mbmJzcDs8L210ZXh0Pjxtbj4wPC9tbj48bXRleHQ+LjIwPC9tdGV4dD48bWZlbmNlZD48bXRl
+eHQ+e3tbQSgyKV06Iy4jIyMjfX0mIzgyMDE7TjwvbXRleHQ+PC9tZmVuY2VkPjwvbWF0aD4=]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula252.mml</name>
+        <consumerData>
+          <mediaID>13570164500387696</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula252.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>128</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1520677364554</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1zdWI+PG1pPkY8L21pPjxtdGV4dD5tPC9tdGV4dD48L21zdWI+PG10ZXh0PiZuYnNw
+Oz0mbmJzcDs8L210ZXh0Pjxtc3ViPjxtaT4mIzk1Njs8L21pPjxtaT5zPC9taT48L21zdWI+PG1p
+Pk48L21pPjwvbWF0aD4=]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula250.mml</name>
+        <consumerData>
+          <mediaID>13570164500387701</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula250.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>515</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1520677364554</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1vdmVyPjxtbz4mIzg2MDA7PC9tbz48bW8+KzwvbW8+PC9tb3Zlcj48bWk+JiM5MzE7
+PC9taT48bXN1Yj48bWk+RjwvbWk+PG10ZXh0Png8L210ZXh0PjwvbXN1Yj48bXRleHQ+Jm5ic3A7
+PSZuYnNwOzwvbXRleHQ+PG1uPjA8L21uPjxtbz46PC9tbz48bXRleHQ+Jm5ic3A7PC9tdGV4dD48
+bW8+LTwvbW8+PG1pPkY8L21pPjxtdGV4dD4mbmJzcDsrJm5ic3A7PC9tdGV4dD48bWZlbmNlZD48
+bXJvdz48bW4+ODAwPC9tbj48bXRleHQ+Jm5ic3A7TjwvbXRleHQ+PC9tcm93PjwvbWZlbmNlZD48
+bWk+c2luPC9taT48bXRleHQ+Jm5ic3A7PC9tdGV4dD48bW4+MjU8L21uPjxtbz4mIzE3Njs8L21v
+Pjxtbz4tPC9tbz48bWZlbmNlZD48bXRleHQ+e3tbQSgxKV06Iy4jIyMjfX0mbmJzcDtOPC9tdGV4
+dD48L21mZW5jZWQ+PG1pPmNvczwvbWk+PG10ZXh0PiZuYnNwOzwvbXRleHQ+PG1uPjE1PC9tbj48
+bW8+JiMxNzY7PC9tbz48bXRleHQ+Jm5ic3A7PSZuYnNwOzwvbXRleHQ+PG1uPjA8L21uPjwvbWF0
+aD4=]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula264.mml</name>
+        <consumerData>
+          <mediaID>13570164500387702</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula264.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>108</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1pIG1hdGh2YXJpYW50PSJib2xkIj5GPC9taT48bXRleHQ+Jm5ic3A7PSZuYnNwO3t7
+W0EoMyldOiMuIyMjI319JiM4MjAxO04mbmJzcDsmIzg2MDA7PC9tdGV4dD48L21hdGg+]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula254.mml</name>
+        <consumerData>
+          <mediaID>13570164500387935</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula254.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>99</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1520677364554</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1zdWI+PG1pPkY8L21pPjxtdGV4dD5tPC9tdGV4dD48L21zdWI+PG10ZXh0PiZuYnNw
+Oz17e1tBKDQpXTojLiMjIyN9fSYjODIwMTtOPC9tdGV4dD48L21hdGg+]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula255.mml</name>
+        <consumerData>
+          <mediaID>13570164500387936</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula255.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>107</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1522412237770</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1pIG1hdGh2YXJpYW50PSJib2xkIj5GPC9taT48bXRleHQ+Jm5ic3A7PSZuYnNwO3t7
+W0EoMyldOiMuIyMjI319Jm5ic3A7TiZuYnNwOyYjODYwMDs8L210ZXh0PjwvbWF0aD4=]]></data>
+        </mediaData>
+      </internal_media>
+      <internal_media>
+        <name>formula249.mml</name>
+        <consumerData>
+          <mediaID>13570164500387949</mediaID>
+          <testID>13570164500387319</testID>
+          <consumerID>13570164500387354</consumerID>
+          <overrideHeight>0</overrideHeight>
+          <overrideWidth>0</overrideWidth>
+          <originalMediaName>formula249.mml</originalMediaName>
+        </consumerData>
+        <mediaData>
+          <size>108</size>
+          <mime_type>text/mathml</mime_type>
+          <creation>1520677364554</creation>
+          <modified>1520677364554</modified>
+          <height>0</height>
+          <width>0</width>
+          <data><![CDATA[PG1hdGg+PG1pIG1hdGh2YXJpYW50PSJib2xkIj5OPC9taT48bXRleHQ+Jm5ic3A7PSZuYnNwO3t7
+W0EoMildOiMuIyMjI319JiM4MjAxO04mbmJzcDsmIzg1OTM7PC9tdGV4dD48L21hdGg+]]></data>
+        </mediaData>
+      </internal_media>
+    </media_set>
+    <randomVariables>
+      <pooledRandom>
+        <name>A</name>
+        <arrayed>true</arrayed>
+        <rows>
+          <row><![CDATA[400,621.5186116,48.27572112,124.3037223]]></row>
+          <row><![CDATA[399,621.7774306,47.3097953,124.3554861]]></row>
+          <row><![CDATA[398,622.0362497,46.34386947,124.4072499]]></row>
+          <row><![CDATA[397,622.2950687,45.37794364,124.4590137]]></row>
+          <row><![CDATA[396,622.5538878,44.41201782,124.5107776]]></row>
+          <row><![CDATA[395,622.8127068,43.44609199,124.5625414]]></row>
+          <row><![CDATA[394,623.0715259,42.48016617,124.6143052]]></row>
+          <row><![CDATA[393,623.3303449,41.51424034,124.666069]]></row>
+          <row><![CDATA[392,623.5891639,40.54831451,124.7178328]]></row>
+          <row><![CDATA[391,623.847983,39.58238869,124.7695966]]></row>
+          <row><![CDATA[390,624.106802,38.61646286,124.8213604]]></row>
+        </rows>
+      </pooledRandom>
+    </randomVariables>
+    <questionProperties>
+      <property name="pageTag" type="string" value="" />
+      <property name="customType" type="string" value="" />
+      <property name="completeIncompleteGrading" type="string" value="false" />
+      <property name="instructor_info" type="string" value="" />
+      <property name="forceManualScoring" type="string" value="automatic" />
+      <property name="problemSolution" type="string" value="&lt;p&gt;The block is in equilibrium.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt;  &lt;p&gt;The magnitude and direction of the friction force is {{[A(3)]:.####}} N &amp;#8600;.&lt;/p&gt;  &lt;p&gt;&amp;nbsp;&lt;/p&gt; " />
+      <property name="audioPlayerPosition" type="string" value="above" />
+      <property name="attached_media" type="string" value="08.01b_png.ext,08.01a_png.ext,formula253.mml,formula248.mml,formula262.mml,formula263.mml,formula256.mml,formula258.mml,formula259.mml,formula251.mml,formula257.mml,formula260.mml,formula261.mml,formula252.mml,formula250.mml,formula264.mml,formula254.mml,formula255.mml,formula249.mml" />
+      <property name="useCommonFeedback" type="string" value="true" />
+      <property name="aggregatedGrading" type="string" value="false" />
+    </questionProperties>
+    <hints>
+      <hint>
+        <name>hint #1</name>
+        <type>html</type>
+        <value><![CDATA[How do you calculate the friction force using the coefficient of friction?]]></value>
+      </hint>
+    </hints>
+    <worksheet>
+      <stem><![CDATA[<p>Determine whether the block shown in the figure is in equilibrium and find the magnitude and direction of the friction force when <em>&#952;</em> = 40&#176; and <em>P</em> = {{[A(1)]:#.####}}&nbsp;N. Given:&nbsp;<em>&#956;</em><sub>s</sub> = 0.20 and&nbsp;<em>&#956;</em><sub>k</sub> = 0.15.</p>
+
+
+<p>%media:08.01a_png.ext%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>The block is in equilibrium.</p>
+
+
+<p>__A__</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>The magnitude and direction of the friction force is __B__ N __C__.</p>
+
+
+<p>&nbsp;</p>
+]]></stem>
+      <commonFeedback><![CDATA[<p>Assume that the block is in equilibrium.</p>
+
+
+<p>%media:08.01b_png.ext%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>%media:formula256.mml%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>%media:formula257.mml%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>%media:formula258.mml%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>%media:formula259.mml%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>%media:formula264.mml%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>Maximum friction force is calculated&nbsp;using the equation</p>
+
+
+<p>%media:formula260.mml%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>%media:formula261.mml%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>%media:formula262.mml%&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>The block is in equilibrium.</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>Since <em>F</em>&nbsp;&nbsp;&lt;&nbsp;<em>F<sub>m</sub></em>,</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>%media:formula255.mml%</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
+]]></commonFeedback>
+      <answers>
+        <booleanAnswer>
+          <name><![CDATA[A]]></name>
+          <weight>100</weight>
+          <answerProperties>
+            <property name="completeIncompleteGrading" type="string" value="false" />
+          </answerProperties>
+          <correctAnswer>true</correctAnswer>
+        </booleanAnswer>
+        <numberAnswer>
+          <name><![CDATA[B]]></name>
+          <weight>100</weight>
+          <answerProperties>
+            <property name="completeIncompleteGrading" type="string" value="false" />
+          </answerProperties>
+          <fieldWidth>7</fieldWidth>
+          <correctAnswer><![CDATA[[A(3)]]]></correctAnswer>
+          <formatString><![CDATA[#.####]]></formatString>
+          <precisionString><![CDATA[2]]></precisionString>
+          <units></units>
+          <precisionType>2</precisionType>
+          <engineeringUnits>false</engineeringUnits>
+          <currency>false</currency>
+        </numberAnswer>
+        <multipleChoiceAnswer>
+          <name><![CDATA[C]]></name>
+          <weight>100</weight>
+          <answerProperties>
+            <property name="presentation" type="string" value="dropDown" />
+            <property name="completeIncompleteGrading" type="string" value="false" />
+            <property name="width" type="string" value="" />
+            <property name="prompt" type="string" value="" />
+            <property name="scramble" type="string" value="true" />
+          </answerProperties>
+          <choices>
+            <choice>
+              <distractor><![CDATA[&#8598;]]></distractor>
+              <correct>false</correct>
+            </choice>
+            <choice>
+              <distractor><![CDATA[&#8599;]]></distractor>
+              <correct>false</correct>
+            </choice>
+            <choice>
+              <distractor><![CDATA[&#8601;]]></distractor>
+              <correct>false</correct>
+            </choice>
+            <choice>
+              <distractor><![CDATA[&#8600;]]></distractor>
+              <correct>true</correct>
+            </choice>
+          </choices>
+        </multipleChoiceAnswer>
+      </answers>
+    </worksheet>
+  </question>
+</questionSet>

@@ -1,0 +1,67 @@
+<questionSet><question>
+               <format>1</format>
+               <ezid>13570164500387354</ezid>
+               <version>1561981908321</version>
+               <title><![CDATA[Problem 1.011]]></title>
+               <type>WK</type>
+               <categories><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Accessibility: Keyboard Navigation]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[ABET Outcomes: 1]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Chapter: 2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Difficulty: Medium]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Section: 2.2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Topic: Chapter 2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Subtopic: Section 2.2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Units: Metric]]></title>
+            </internal_category></categories>
+               <randomVariables><pooledRandom><name>A</name><arrayed>true</arrayed>
+                      <rows><row><![CDATA[500,52.33333,0.1200]]></row><row><![CDATA[1000,104.66667,0.0600]]></row><row><![CDATA[1500,157.00000,0.0400]]></row><row><![CDATA[2000,209.33333,0.0300]]></row><row><![CDATA[2500,261.66667,0.0240]]></row><row><![CDATA[3000,314.00000,0.0200]]></row><row><![CDATA[3500,366.33333,0.0171]]></row><row><![CDATA[4000,418.66667,0.0150]]></row><row><![CDATA[4500,471.00000,0.0133]]></row><row><![CDATA[5000,523.33333,0.0120]]></row></rows>
+                     </pooledRandom></randomVariables>
+               <questionProperties>
+           <property name="pageTag" type="string" value="" />
+           <property name="customType" type="string" value="" />
+           <property name="completeIncompleteGrading" type="string" value="false" />
+           <property name="instructor_info" type="string" value="" />
+           <property name="forceManualScoring" type="string" value="automatic" />
+           <property name="problemSolution" type="string" value="The time taken to make one revolution is __ans__." />
+           <property name="audioPlayerPosition" type="string" value="above" />
+           <property name="useCommonFeedback" type="string" value="true" />
+           <property name="aggregatedGrading" type="string" value="false" />
+         </questionProperties>
+               <worksheet><stem><![CDATA[<p>A particular motor rotates at [A(1)] revolutions per minute (rpm). What is its speed in rad/sec, and how many seconds does it take to make one revolution?</br></br> The time taken to make one revolution is __ans__.</p>]]></stem><commonFeedback><![CDATA[<p>%media:f1.mml% Period <p>&nbsp;</p><p>%media:f2.mml%</p><p>&nbsp;</p>  <p>&nbsp;</p><p>%media:f3.mml%</p><p>&nbsp;</p></p>]]></commonFeedback></worksheet>
+               <hints><hint>
+             <name>hint #1</name>
+             <type>html</type>
+             <value><![CDATA[What is a revolution?]]></value>
+            </hint></hints>
+               <answers><numberAnswer>
+                   <name><![CDATA[A(3)]]></name>
+                   <weight>100</weight>
+                   <answerProperties>
+                     <property name="completeIncompleteGrading" type="string" value="false" />
+                   </answerProperties>
+                   <fieldWidth>7</fieldWidth>
+                   <correctAnswer><![CDATA[[A(3)]]]></correctAnswer>
+                   <formatString><![CDATA[#.####]]></formatString>
+                   <precisionString><![CDATA[2]]></precisionString>
+                   <units></units>
+                   <precisionType>2</precisionType>
+                   <engineeringUnits>false</engineeringUnits>
+                   <currency>false</currency>
+                 </numberAnswer></answers>
+             </question></questionSet>

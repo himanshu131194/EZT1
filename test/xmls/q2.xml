@@ -1,0 +1,81 @@
+<questionSet><question>
+               <format>1</format>
+               <ezid>13570164500387354</ezid>
+               <version>1561981908321</version>
+               <title><![CDATA[Problem 1.002]]></title>
+               <type>WS</type>
+               <categories><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Accessibility: Keyboard Navigation]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[ABET Outcomes: 1]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Chapter: 2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Difficulty: Easy]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Section: 2.2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Topic: chapter 2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Subtopic: section 2.2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Units: Metric]]></title>
+            </internal_category></categories>
+               <randomVariables><pooledRandom><name>A</name><arrayed>true</arrayed>
+                      <rows><row><![CDATA[20,2.0387,4.4960,0.1397]]></row><row><![CDATA[40,4.0775,8.9920,0.2794]]></row><row><![CDATA[60,6.1162,13.4880,0.4191]]></row><row><![CDATA[80,8.1549,17.9840,0.5588]]></row><row><![CDATA[100,10.1937,22.4800,0.6985]]></row><row><![CDATA[120,12.2324,26.9760,0.8382]]></row><row><![CDATA[140,14.2712,31.4720,0.9779]]></row><row><![CDATA[160,16.3099,35.9680,1.1176]]></row><row><![CDATA[180,18.3486,40.4640,1.2572]]></row><row><![CDATA[200,20.3874,44.9600,1.3969]]></row></rows>
+                     </pooledRandom></randomVariables>
+               <questionProperties>
+           <property name="pageTag" type="string" value="" />
+           <property name="customType" type="string" value="" />
+           <property name="completeIncompleteGrading" type="string" value="false" />
+           <property name="instructor_info" type="string" value="" />
+           <property name="forceManualScoring" type="string" value="automatic" />
+           <property name="problemSolution" type="string" value="The total weight in pounds is [A()].</br>The total weight in pounds is [A()]." />
+           <property name="audioPlayerPosition" type="string" value="above" />
+           <property name="useCommonFeedback" type="string" value="true" />
+           <property name="aggregatedGrading" type="string" value="false" />
+         </questionProperties>
+               <worksheet><stem><![CDATA[<p>Folklore has it that Sir Isaac Newton formulated the law of gravitation supposedly after being hit on the head by a falling apple. The weight of an apple depends strongly on its variety, but a typical weight is 1 newton! Calculate the total mass of [A(1)] apples in kilograms. Then convert the total weight to pounds and the total mass to slugs.</br></br>The total weight that are converted to pounds are __ans1__.</br>The total mass that are converted to pounds are __ans2__.</p>]]></stem></worksheet>
+               <hints><hint>
+             <name>hint #1</name>
+             <type>html</type>
+             <value><![CDATA[What are the effects of gravity on an object ?]]></value>
+            </hint></hints>
+               <answers><numberAnswer>
+                   <name><![CDATA[A(3)]]></name>
+                   <weight>100</weight>
+                   <answerProperties>
+                     <property name="completeIncompleteGrading" type="string" value="false" />
+                   </answerProperties>
+                   <fieldWidth>7</fieldWidth>
+                   <correctAnswer><![CDATA[[A(3)]]]></correctAnswer>
+                   <formatString><![CDATA[#.####]]></formatString>
+                   <precisionString><![CDATA[2]]></precisionString>
+                   <units></units>
+                   <precisionType>2</precisionType>
+                   <engineeringUnits>false</engineeringUnits>
+                   <currency>false</currency>
+                 </numberAnswer><numberAnswer>
+                   <name><![CDATA[A(4)]]></name>
+                   <weight>100</weight>
+                   <answerProperties>
+                     <property name="completeIncompleteGrading" type="string" value="false" />
+                   </answerProperties>
+                   <fieldWidth>7</fieldWidth>
+                   <correctAnswer><![CDATA[[A(3)]]]></correctAnswer>
+                   <formatString><![CDATA[#.####]]></formatString>
+                   <precisionString><![CDATA[2]]></precisionString>
+                   <units></units>
+                   <precisionType>2</precisionType>
+                   <engineeringUnits>false</engineeringUnits>
+                   <currency>false</currency>
+                 </numberAnswer></answers>
+             </question></questionSet>

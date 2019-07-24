@@ -1,0 +1,23 @@
+<math display = 'block'>
+  <mrow>
+    <mi>P</mi>
+    <mo fontfamily='Times New Roman' lspace='0px' rspace='0px'>&nbsp;=&nbsp;</mo>
+    <mn>2</mn>
+    <mi>&pi;</mi>
+    <mo>&sol;</mo>
+    <mi>&omega;</mi>
+    <mo fontfamily='Times New Roman' lspace='0px' rspace='0px'>&nbsp;=&nbsp;</mo>
+    <mn>60</mn>
+    <mo lspace='0px' rspace='0px'>&sol;[</mo>
+    <mtext>A</mtext>
+    <mo fence='false' stretchy='false'>(</mo>
+    <mtext>1</mtext>
+    <mo lspace='0px' rspace='0px'>)] = [</mo>
+    <mtext>A</mtext>
+    <mo fence='false' stretchy='false'>(</mo>
+    <mtext>3</mtext>
+    <mo fontfamily='Times New Roman' lspace='0px' rspace='0px'>)]&nbsp;</mo>
+    <mi>sec</mi>
+    <mo>.</mo>
+  </mrow>
+</math>

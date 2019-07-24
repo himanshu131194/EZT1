@@ -1,0 +1,67 @@
+<questionSet><question>
+               <format>1</format>
+               <ezid>13570164500387354</ezid>
+               <version>1561981908321</version>
+               <title><![CDATA[Problem 1.008]]></title>
+               <type>WS</type>
+               <categories><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Accessibility: Keyboard Navigation]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[ABET Outcomes: 1]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Chapter: 2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Difficulty: Medium]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Section: 2.2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Topic: Chapter 2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Subtopic: Section 2.2]]></title>
+            </internal_category><internal_category>
+                <catid>13570164220533888</catid>
+                <title><![CDATA[Units: Metric]]></title>
+            </internal_category></categories>
+               <randomVariables><pooledRandom><name>A</name><arrayed>true</arrayed>
+                      <rows><row><![CDATA[20,37]]></row><row><![CDATA[40,19]]></row><row><![CDATA[60,12]]></row><row><![CDATA[80,9]]></row><row><![CDATA[100,7]]></row><row><![CDATA[120,6]]></row><row><![CDATA[140,5]]></row><row><![CDATA[160,5]]></row><row><![CDATA[180,4]]></row><row><![CDATA[200,4]]></row></rows>
+                     </pooledRandom></randomVariables>
+               <questionProperties>
+           <property name="pageTag" type="string" value="" />
+           <property name="customType" type="string" value="" />
+           <property name="completeIncompleteGrading" type="string" value="false" />
+           <property name="instructor_info" type="string" value="" />
+           <property name="forceManualScoring" type="string" value="automatic" />
+           <property name="problemSolution" type="string" value="Approximately [A(2)] bulbs are equivalent  to one horse power." />
+           <property name="audioPlayerPosition" type="string" value="above" />
+           <property name="useCommonFeedback" type="string" value="true" />
+           <property name="aggregatedGrading" type="string" value="false" />
+         </questionProperties>
+               <worksheet><stem><![CDATA[<p>How many [A(1)] watt lightbulbs are equivalent to one horsepower?</br></br> Approximately __ans__ bulbs are equivalent  to one horse power. </p>]]></stem><commonFeedback><![CDATA[<p><<i.f1.mml>> approximately as the decimals are neglected.</p>]]></commonFeedback></worksheet>
+               <hints><hint>
+             <name>hint #1</name>
+             <type>html</type>
+             <value><![CDATA[Whats is is horsepower?]]></value>
+            </hint></hints>
+               <answers><numberAnswer>
+                   <name><![CDATA[A(2)]]></name>
+                   <weight>100</weight>
+                   <answerProperties>
+                     <property name="completeIncompleteGrading" type="string" value="false" />
+                   </answerProperties>
+                   <fieldWidth>7</fieldWidth>
+                   <correctAnswer><![CDATA[[A(3)]]]></correctAnswer>
+                   <formatString><![CDATA[#.####]]></formatString>
+                   <precisionString><![CDATA[2]]></precisionString>
+                   <units></units>
+                   <precisionType>2</precisionType>
+                   <engineeringUnits>false</engineeringUnits>
+                   <currency>false</currency>
+                 </numberAnswer></answers>
+             </question></questionSet>
